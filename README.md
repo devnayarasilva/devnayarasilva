@@ -1,5 +1,5 @@
 - 👋 Oi! Tudo bem? Me chamo Nayara Silva. Sou estudante de Analise e desenvolvimento de sistemas
 - 👀 Tenho interesse em automação de processos, programação, soluções tecnológicas
-- 🌱 Estou me dedicando aos estudos em ServiceNow  
+- 🌱 Estou me dedicando aos estudos em ServiceNow e web 
 - 💞️ Estou buscando minha primeira oportunidade em TI
 - 📫 Welcome to my Linkedin: https://www.linkedin.com/in/nayara-silva-1b6b8026b/
